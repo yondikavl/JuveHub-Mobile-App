@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Juvehub_Mobile_App</string>
+
+    <string name="players_name">Nama Pemain</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_nama">
+        <item>Gleison Bremer</item>
+        <item>Andrea Cambiaso</item>
+        <item>Francisco Conceicao</item>
+        <item>Federico Gatti</item>
+        <item>Piere Kalulu</item>
+        <item>Teun Koopmeiners</item>
+        <item>Manuel Locatelli</item>
+        <item>Mattia Perin</item>
+        <item>Kephren Thuram</item>
+        <item>Dusan Vlahovic</item>
+        <item>Kenan Yildiz</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Bek tengah yang tangguh dan kuat, Bremer dikenal dengan kemampuan duel udara dan tekel yang solid.</item>
+        <item>Pemain sayap yang gesit, Cambiaso memiliki kecepatan dan kelincahan tinggi, sering membantu serangan dari sisi kiri.</item>
+        <item>Gelandang kreatif dengan visi yang tajam, Conceicao adalah playmaker yang pandai mengatur tempo permainan.</item>
+        <item>Bertahan secara agresif, Gatti memiliki kemampuan intersep yang kuat dan kecepatan dalam transisi.</item>
+        <item>Kalulu adalah bek serbaguna yang mampu bermain di beberapa posisi belakang, dengan stamina yang baik.</item>
+        <item>Koopmeiners adalah gelandang dengan akurasi umpan tinggi, sering menjadi eksekutor bola mati timnya.</item>
+        <item>Locatelli adalah gelandang bertahan yang tenang dan pandai memotong serangan lawan, berperan penting dalam mengatur lini tengah.</item>
+        <item>Kiper berpengalaman, Perin terkenal dengan refleks yang cepat dan kepercayaan diri tinggi dalam situasi satu lawan satu.</item>
+        <item>Gelandang energik dengan kemampuan fisik yang kuat, Thuram piawai dalam merebut bola dan membawa bola ke depan.</item>
+        <item>Vlahovic adalah striker produktif dengan insting mencetak gol yang tinggi dan kemampuan finishing yang baik.</item>
+        <item>Pemain muda berbakat, Yildiz memiliki teknik yang baik dan potensi besar untuk berkembang menjadi bintang masa depan.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/bremer</item>
+        <item>@drawable/cambiaso</item>
+        <item>@drawable/conceicao</item>
+        <item>@drawable/gatti</item>
+        <item>@drawable/kalulu</item>
+        <item>@drawable/koopmeiners</item>
+        <item>@drawable/locatelli</item>
+        <item>@drawable/perin</item>
+        <item>@drawable/thuram</item>
+        <item>@drawable/vlahovic</item>
+        <item>@drawable/yildiz</item>
+    </string-array>
+
+</resources>
